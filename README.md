@@ -45,9 +45,10 @@
    cd ../../
    ```
 
-## Go1 Policy Deployment <a name="running_real"></a>
+## Go1 Policy Deployment
+For onboard setup, please refer to [MacMini-for-Onboard-Robotics](https://github.com/linchangyi1/MacMini-for-Onboard-Robotics)
 
-#### Prerequisites:
+#### Common Threads:
 1. Launch ROS:
    ```bash
    roscore
@@ -85,6 +86,14 @@ python deploy/locomotion.py
 
 
 
-
+## Reference
+```bibtex
+@article{lin2025locotouch,
+  title={LocoTouch: Learning Dynamic Quadrupedal Transport with Tactile Sensing},
+  author={Lin, Changyi and Song, Yuxin Ray and Huo, Boda and Yu, Mingyang and Wang, Yikai and Liu, Shiqi and Yang, Yuxiang and Yu, Wenhao and Zhang, Tingnan and Tan, Jie and others},
+  journal={arXiv preprint arXiv:2505.23175},
+  year={2025}
+}
+```
 
 
