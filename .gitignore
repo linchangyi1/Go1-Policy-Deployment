@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.egg-info/
+*__pycache__*
+**/__pycache__/
+checkpoint/
+experiment/
+unitree_legged_sdk/
+

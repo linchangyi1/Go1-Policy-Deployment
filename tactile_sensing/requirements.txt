@@ -1,0 +1,7 @@
+params_proto
+argparse
+numpy
+pyserial
+opencv-python
+scipy
+rospkg
